@@ -1,0 +1,7 @@
+summary: ''
+display_name: developer_exam
+extra_perms:
+  g/all: true
+  u/yonga: true
+owners:
+  - u/yonga
